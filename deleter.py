@@ -2,10 +2,10 @@ import tweepy
 from datetime import datetime, timedelta
 
 
-consumer_key = 'JslB5qrgqDRFYqYpDYBJgkzML'
-consumer_secret = 'S7z0e7uAAE9BeTYZUgCHnJFdqQkMv7joWGx0yibVhkPIM5Rqxm'
-access_token = '1220873248361021440-4aG75j3sSSFLAPpEEDg4kNiDPpWK5J'
-access_token_secret = 'BH4Nva4Ksf47iMcbxKOfodycZ2KrTSTP5m6YHvIYP9aD3'
+consumer_key = '...'
+consumer_secret = '...'
+access_token = '...'
+access_token_secret = '...'
 
 # options
 test_mode = False
